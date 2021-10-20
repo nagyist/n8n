@@ -466,7 +466,7 @@ export const dealFields = [
 				},
 				default: [],
 				description: `Works similarly to properties=, but this parameter will include the history for the specified property,
-				instead of just including the current value. Use this parameter when you need the full history of changes to a property's value.`,
+				 instead of just including the current value. Use this parameter when you need the full history of changes to a property's value.`,
 			},
 
 		],
