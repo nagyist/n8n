@@ -1874,8 +1874,8 @@ export class GoogleDrive implements INodeType {
 								type: 'boolean',
 								default: false,
 								description: `Whether the options to copy, print, or download files inside this shared drive,
-								should be disabled for readers and commenters. When this restriction is set to true, it will
-								override the similarly named field to true for any file inside this shared drive.`,
+								 should be disabled for readers and commenters. When this restriction is set to true, it will
+								 override the similarly named field to true for any file inside this shared drive.`,
 							},
 							{
 								displayName: 'Copy Requires Writer Permission',
@@ -1883,8 +1883,8 @@ export class GoogleDrive implements INodeType {
 								type: 'boolean',
 								default: false,
 								description: `Whether the options to copy, print, or download files inside this shared drive,
-								should be disabled for readers and commenters. When this restriction is set to true, it will
-								override the similarly named field to true for any file inside this shared drive.`,
+								 should be disabled for readers and commenters. When this restriction is set to true, it will
+								 override the similarly named field to true for any file inside this shared drive.`,
 							},
 							{
 								displayName: 'Domain Users Only',
@@ -1892,8 +1892,8 @@ export class GoogleDrive implements INodeType {
 								type: 'boolean',
 								default: false,
 								description: `Whether access to this shared drive and items inside this shared drive
-								is restricted to users of the domain to which this shared drive belongs. This restriction
-								may be overridden by other sharing policies controlled outside of this shared drive.`,
+								 is restricted to users of the domain to which this shared drive belongs. This restriction
+								 may be overridden by other sharing policies controlled outside of this shared drive.`,
 							},
 							{
 								displayName: 'Drive Members Only',
